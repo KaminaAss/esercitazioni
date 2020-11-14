@@ -5,4 +5,4 @@ for (var i=0; i < 10; i++) {
     total += i
 }
 
-console.log(total); //45
+console.log(total);
